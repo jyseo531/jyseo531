@@ -19,9 +19,6 @@
 <br/>
 
 ###  :clipboard: Skills
-  
-<br/>
-
 <img src="https://img.shields.io/badge/python-ffd849?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white">
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="Java: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/R-75aadb?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white">
@@ -29,7 +26,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimdungs&layout=compact)](https://github.com/chimdungs/github-readme-stats)
 
 <br/>
-
 
 ### 💻 Study log 💻
 <div style="display:flex; flex-direction:row;">
