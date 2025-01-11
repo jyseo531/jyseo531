@@ -5,7 +5,7 @@
 ### ✍🏻 Education ✍🏻 
 - M.S in Artificial Intelligence, Korea University `Mar.2025 - ` (Computer Vision Lab : [👨🏻‍🏫](https://kuaicv.com/))
 - B.S in Statistics, University of Seoul `Mar.2021 - Feb.2025`
-- B.S in Artificial Intelligence (Bi-major), University of Seoul `Mar.2021 - Feb.2025`
+- B.S in Artificial Intelligence (Double-major), University of Seoul `Mar.2021 - Feb.2025`
 
 <br/>
 
