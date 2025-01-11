@@ -1,4 +1,4 @@
-## Hi there 👋
+## :wave: Welcome my github !👋🏼
 ![header](https://capsule-render.vercel.app/api?type=waving&height=267&color=gradient&text=Jiyoung%20Seo&section=header&reversal=false&textBg=false)
   
 ##  :wave: Welcome my github !
@@ -10,7 +10,7 @@
 <br/>
 
 ### Interested in
-- 3D Reconstruction
+- **3D Reconstruction**
   - 3D Stereo Vision
 - 3D Generation
 - Graphics
@@ -36,7 +36,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimdungs)](https://github.com/chimdungs/github-readme-stats)
 
-   
+
+<br/>
+
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="aa4217121@gmail.com">
