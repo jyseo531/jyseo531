@@ -1,7 +1,7 @@
-## :wave: Welcome my github !👋🏼
+## 👋🏼 Welcome my github !
 ![header](https://capsule-render.vercel.app/api?type=waving&height=267&color=gradient&text=Jiyoung%20Seo&section=header&reversal=false&textBg=false)
   
-##  :wave: Welcome my github !
+
 ### ✍🏻 Education ✍🏻 
 - M.S in Artificial Intelligence, Korea University `Mar.2025 - ` (Computer Vision Lab : [👨🏻‍🏫](https://kuaicv.com/))
 - B.S in Statistics, University of Seoul `Mar.2021 - Feb.2025`
@@ -40,6 +40,7 @@
 <br/>
 
 ### 📞 Contact 📞
+<!--
 <div style="display:flex; flex-direction:row;">
     <a href="aa4217121@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -47,7 +48,8 @@
     <a href="https://www.instagram.com/zy0_ng/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-
+-->
+- ✉️ : aa4217121@gmail.com
 <!--
 Here are some ideas to get you started:
 
