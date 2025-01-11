@@ -2,14 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=267&color=gradient&text=Jiyoung%20Seo&section=header&reversal=false&textBg=false)
   
 
-### ✍🏻 Education ✍🏻 
+### 📖 Education 
 - M.S in Artificial Intelligence, Korea University `Mar.2025 - ` (Computer Vision Lab : [👨🏻‍🏫](https://kuaicv.com/))
 - B.S in Statistics, University of Seoul `Mar.2021 - Feb.2025`
 - B.S in Artificial Intelligence (Double-major), University of Seoul `Mar.2021 - Feb.2025`
 
 <br/>
 
-### Interested in
+### 📍 Interested in
 - **3D Reconstruction**
   - 3D Stereo Vision
 - 3D Generation
@@ -27,14 +27,14 @@
 
 <br/>
 
-### 💻 Study log 💻
+### 💻 Study log 
 <div style="display:flex; flex-direction:row;">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimdungs)](https://github.com/chimdungs/github-readme-stats)
 
 <br/>
 
-### 📞 Contact 📞
+### 📞 Contact 
 <!--
 <div style="display:flex; flex-direction:row;">
     <a href="aa4217121@gmail.com">
