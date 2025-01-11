@@ -2,14 +2,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=267&color=gradient&text=Jiyoung%20Seo&section=header&reversal=false&textBg=false)
   
 ##  :wave: Welcome my github !
- <br/>
-  
 ### ✍🏻 Education ✍🏻 
 - M.S in Artificial Intelligence, Korea University `Mar.2025 - ` (Computer Vision Lab : [👨🏻‍🏫](https://kuaicv.com/))
 - B.S in Statistics, University of Seoul `Mar.2021 - Feb.2025`
 - B.S in Artificial Intelligence (Bi-major), University of Seoul `Mar.2021 - Feb.2025`
 
 <br/>
+
 ### Interested in
 - 3D Reconstruction
   - 3D Stereo Vision
