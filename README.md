@@ -27,21 +27,15 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="Java: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/R-75aadb?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white">
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJiYoung&layout=compact)](https://github.com/chimdungs/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimdungs)](https://github.com/chimdungs/github-readme-stats)
- 
-   <br/>   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimdungs)](https://github.com/chimdungs/github-readme-stats)
+   <br/>
+
 
 ### 💻 Study log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="">
-        <img src=""> 
-    </a>
-<br/>
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImJaeSung&show_icons=true&theme=radical)
--->
-   <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimdungs)](https://github.com/chimdungs/github-readme-stats)
+
    
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -51,8 +45,6 @@
     <a href="https://www.instagram.com/zy0_ng/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-<!--
-**chimdungs/chimdungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -64,4 +56,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<!--
+**chimdungs/chimdungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
