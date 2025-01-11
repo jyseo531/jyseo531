@@ -1,6 +1,5 @@
-## 👋🏼 Welcome my github !
 ![header](https://capsule-render.vercel.app/api?type=waving&height=267&color=gradient&text=Jiyoung%20Seo&section=header&reversal=false&textBg=false)
-  
+## 👋🏼 Welcome my github !
 
 ### 📖 Education 
 - M.S in Artificial Intelligence, Korea University `Mar.2025 - ` (Computer Vision Lab : [👨🏻‍🏫](https://kuaicv.com/))
@@ -9,7 +8,7 @@
 
 <br/>
 
-### 📍 Interested in
+### 📍 Research domains
 - **3D Reconstruction**
   - 3D Stereo Vision
 - 3D Generation
