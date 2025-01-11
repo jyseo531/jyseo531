@@ -10,7 +10,6 @@
 - B.S in Artificial Intelligence (Bi-major), University of Seoul `Mar.2021 - Feb.2025`
 
 <br/>
-
 ### Interested in
 - 3D Reconstruction
   - 3D Stereo Vision
@@ -29,8 +28,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="Java: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/R-75aadb?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJiYoung&layout=compact)](https://github.com/chimdungs/github-readme-stats)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJiYoung&layout=compact)](https://github.com/chimdungs/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimdungs)](https://github.com/chimdungs/github-readme-stats)
  
    <br/>   
 
