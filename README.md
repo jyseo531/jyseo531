@@ -18,9 +18,16 @@
 <br/>
 
 ###  :clipboard: Skills
-<img src="https://img.shields.io/badge/python-ffd849?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="Java: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/R-75aadb?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white">
+<p display="inline-block">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/R-75aadb?style=for-the-badge&logo=R&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Matlab-3776AB?style=for-the-badge&logo=Matlab&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimdungs&layout=compact)](https://github.com/chimdungs/github-readme-stats)
 
@@ -29,11 +36,11 @@
 ### 💻 Study log 
 <div style="display:flex; flex-direction:row;">
     <a href="https://zy0-ng531.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-      <a href="https://velog.io/@zyounguri/posts">
-        <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Velog&logoColor=white"> 
-    </a>
+       <a href="https://velog.io/@zyounguri/posts">
+         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+       </a>
   <br/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimdungs)](https://github.com/chimdungs/github-readme-stats)
@@ -41,6 +48,7 @@
 <br/>
 
 ### 📞 Contact 
+- ✉️ : aa4217121@gmail.com
 <!--
 <div style="display:flex; flex-direction:row;">
     <a href="aa4217121@gmail.com">
@@ -50,7 +58,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 -->
-- ✉️ : aa4217121@gmail.com
 
 <!--
 Here are some ideas to get you started:
