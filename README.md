@@ -28,7 +28,14 @@
 
 ### 💻 Study log 
 <div style="display:flex; flex-direction:row;">
-
+    <a href="https://zy0-ng531.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+      <a href="https://velog.io/@zyounguri/posts">
+        <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Velog&logoColor=white"> 
+    </a>
+  <br/>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimdungs)](https://github.com/chimdungs/github-readme-stats)
 
 <br/>
