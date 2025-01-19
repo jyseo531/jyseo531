@@ -2,7 +2,7 @@
 ## 👋🏼 Welcome my github !
 
 ### 📖 Education 
-- M.S in Artificial Intelligence, Korea University `Mar.2025 - ` (Computer Vision Lab h.p: [🌱](https://kuaicv.com/))
+- M.S in Artificial Intelligence, Korea University `Mar.2025 - ` _(Computer Vision Lab h.p :_ [🌱](https://kuaicv.com/))
 - B.S in Statistics, University of Seoul `Mar.2021 - Feb.2025`
 - B.S in Artificial Intelligence (Double-major), University of Seoul `Mar.2021 - Feb.2025`
 
@@ -11,9 +11,10 @@
 ### 📍 Research Interests
 - **3D Reconstruction**
   - 3D Stereo Vision
-- 3D Generation
+  - Mesh reconstruction
 - Graphics
   - Low level Vision
+  - Inverse Rendering
 
 <br/>
 
