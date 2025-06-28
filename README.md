@@ -2,7 +2,6 @@
 ## 👋🏼 Welcome my github !
 
 ### 📖 Education 
-- M.S in Artificial Intelligence, Korea University `Mar.2025 - ` _(Computer Vision Lab h.p :_ [🌱](https://kuaicv.com/))
 - B.S in Statistics, University of Seoul `Mar.2021 - Feb.2025`
 - B.S in Artificial Intelligence (Double-major), University of Seoul `Mar.2021 - Feb.2025`
 
