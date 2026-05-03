@@ -12,7 +12,7 @@
 - **3D Reconstruction**
   - 3D Stereo Vision
   - Mesh reconstruction
-- Graphics
+- **Graphics**
   - Low level Vision
   - Inverse Rendering
 
@@ -41,10 +41,9 @@
     </a>
        <a href="https://velog.io/@zyounguri/posts">
          <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-       </a>
+   </a>
   <br/>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyseo531)](https://github.com/jyseo531/github-readme-stats)
 
 <br/>
 
