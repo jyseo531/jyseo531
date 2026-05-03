@@ -2,7 +2,7 @@
 ## 👋🏼 Welcome my github !
 
 ### 📖 Education 
-- M.S in Artificial Intelligence, Korea Universtiy (Prof. Sangpil Kim) `Mar.2025 - Feb.2027 (expected`
+- M.S in Artificial Intelligence, Korea Universtiy (Prof. Sangpil Kim) `Mar.2025 - Feb.2027 _(expected)_`
 - B.S in Statistics, University of Seoul `Mar.2021 - Feb.2025`
 - B.S in Artificial Intelligence (Double-major), University of Seoul `Mar.2021 - Feb.2025`
 
