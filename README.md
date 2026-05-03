@@ -2,6 +2,7 @@
 ## 👋🏼 Welcome my github !
 
 ### 📖 Education 
+- M.S in Artificial Intelligence, Korea Universtiy (Prof. Sangpil Kim) `Mar.2025 - Feb.2027 (expected`
 - B.S in Statistics, University of Seoul `Mar.2021 - Feb.2025`
 - B.S in Artificial Intelligence (Double-major), University of Seoul `Mar.2021 - Feb.2025`
 
@@ -48,11 +49,11 @@
 <br/>
 
 ### 📞 Contact 
-- ✉️ : aa4217121@gmail.com
+- ✉️ : tjwldud0531@korea.ac.kr
 
 <!--
 <div style="display:flex; flex-direction:row;">
-    <a href="aa4217121@gmail.com">
+    <a href="tjwldud0531@korea.ac.kr">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://www.instagram.com/zy0_ng/">
