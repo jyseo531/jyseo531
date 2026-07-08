@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=267&color=gradient&text=Jiyoung%20Seo&section=header&reversal=false&textBg=false)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=267&color=gradient&text=Jiyoung%20Seo&section=header&reversal=false&textBg=false)-->
 ## 👋🏼 Welcome my github !
 
 ### 📖 Education 
@@ -9,14 +9,42 @@
 <br/>
 
 ### 📍 Research Interests
-- **3D Reconstruction**
-  - 3D Stereo Vision
-  - Mesh reconstruction
-- **Graphics**
-  - Low level Vision
-  - Inverse Rendering
+- **3D Computer Vision**
+  - 3D Perception
+  - 3D Scene Reconstruction
+- **Physical AI**
+  - Physics Simulation
+  - Dynamic Interaction
 
 <br/>
+
+### 📄 Publications
+
+1. **EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting**, 
+   *CVPR 2025* (Published)<br>
+   D. Lee, H. Park, **J. Seo**, E. Park, H. Park, H. Baek, S. Shin, S. Kim, S. Kim — *3rd author*
+
+2. **AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis**, 
+   *Under Review*, March 2025<br>
+   H. Baek, H. Shin, **J. Seo**, C. Kim, S. Kim, H. Kim, S. Kim — *3rd author*
+
+3. **Egocentric Hand Activity Video Dataset and Bidirectional Motion-Priors for Hand Action Recognition**, 
+   *IEEE Access* (Published)<br>
+   **J. Seo**, D. Lee, P. Lee, J. Lee, Y. Gil, K. Ramani, S. Kim — *1st author*
+
+4. **VAT-KG: Knowledge-Intensive Multimodal Knowledge Graph Dataset for Retrieval-Augmented Generation**, 
+   *Under Review*, September 2025<br>
+   H. Park, **J. Seo**, M. Jang, H. Baek, G. Chang, H. Park, S. Kim — *2nd author*
+
+5. **M³KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation**, 
+   *CVPR 2026* (Published)<br>
+   H. Park, **J. Seo**, J. Moon, H. Park, W. Byeon, S. Kim, H. Im, J. Lee, S. Kim — *2nd author*
+
+6. **Coming Soon !!**
+
+
+<br/>
+
 
 ###  :clipboard: Skills
 <p display="inline-block">
