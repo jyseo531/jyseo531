@@ -64,19 +64,23 @@
 
 ### 💻 Study log 
 <div style="display:flex; flex-direction:row;">
+     <a href="https://jyseo531.github.io">
+         <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white">
+   </a>
     <a href="https://zy0-ng531.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
        <a href="https://velog.io/@zyounguri/posts">
          <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
    </a>
+  
   <br/>
   
 
 <br/>
 
 ### 📞 Contact 
-- ✉️ : tjwldud0531@korea.ac.kr
+✉️ : tjwldud0531@korea.ac.kr
 
 <!--
 <div style="display:flex; flex-direction:row;">
