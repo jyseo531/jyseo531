@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyseo531&layout=compact)](https://github.com/jyseo531/github-readme-stats)
+
 
 <br/>
 
